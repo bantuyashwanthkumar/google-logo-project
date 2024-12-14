@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #fff;
+}
+
+.google-logo {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.google-logo span {
+    display: inline-block;
+}
+
+.g {
+    color: #4285F4; /* Blue */
+}
+
+.o {
+    color: #EA4335; /* Red */
+}
+
+.o:last-of-type {
+    color: #FBBC05; /* Yellow */
+}
+
+.g:last-of-type {
+    color: #34A853; /* Green */
+}
+
+.l {
+    color: #FBBC05; /* Yellow */
+}
+
+.e {
+    color: #34A853; /* Green */
+}
